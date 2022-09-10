@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="173px" height="165px" viewBox="0 0 173 165" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>X</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="TicTacToe" transform="translate(-635.000000, -369.000000)" stroke="#F72585" stroke-width="5">
+            <g id="X" transform="translate(637.000000, 371.000000)">
+                <line x1="0.5" y1="0.5" x2="168.5" y2="160.5" id="Line-5"></line>
+                <line x1="0.5" y1="160.5" x2="168.5" y2="0.5" id="Line-6"></line>
+            </g>
+        </g>
+    </g>
+</svg>
